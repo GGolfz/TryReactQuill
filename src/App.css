@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.App .quill {
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+.ql-container {
+  flex: 1 1 auto;
+}
